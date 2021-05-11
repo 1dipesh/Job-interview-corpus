@@ -14,3 +14,8 @@ pip install pandas
 ```bash
 pip install nltk
 ```
+You can open the CodeExample.ipynb where 10 functions are provided which are explained below:
+1. raw_text : **raw_text : It returns a raw corpus text of the data we have in the corpus
+raw_question_answer : It returns a dataframe of raw corpus text where each row represents a question and its answer.
+raw : It returns the unprocessed corpus contents of the corpus.
+**
