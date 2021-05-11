@@ -7,7 +7,10 @@ https://github.com/1dipesh/Job-interview-corpus.git
 ```
 
 
-You have to install NLTK python library to use this corpus.
+You have to install pandas and NLTK python library to use this corpus.
+```bash
+pip install pandas
+```
 ```bash
 pip install nltk
 ```
